@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Bruno Dantas
-- 👀 I’m interested in  TI
-- 🌱 I’m currently learning  HTML e CSS
-- 💞️ I’m looking to  colaborar em empresas que queiram estar me dando uma oportunidade de estar mostrando meus conhecimentome
-- 📫 How toreach me: pode me contatar pelo whatsapp (21) 96541-6371.
+## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
-<!---
-EVILBDR/EVILBDR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ <div>
+   <a href="https://github.com/EVILBDR">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EVILBDR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EVILBDR&layout=compact&langs_count=6&theme=tokyonight"/>
+
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
+ <br>
+ 
+  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+ 
+<div> 
+   <a href="www.linkedin.com/in/bruno-dantas-4001771ab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/EVILBDR/EVILBDR/blob/output/github-contribution-grid-snake.svg)
+
+</div>
